@@ -6,4 +6,4 @@ Sample golang package to exercise package development best practice:
 * Unit Tests
 * Versioning / Release
 
-`futil` stands for file utilities, see the [godoc]() for more info.
+`futil` stands for file utilities, see the [docs](https://godoc.org/github.com/dj80hd/futil) for more info.

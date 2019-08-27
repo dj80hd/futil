@@ -1,5 +1,5 @@
 // Package futil provides convenience methods for reading and
-// writing file content as strings or arrays of strings (lines)
+// writing file content as strings or slices of strings (lines)
 package futil
 
 import (
